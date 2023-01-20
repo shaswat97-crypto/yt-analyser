@@ -1,8 +1,8 @@
 
-<h4 align="center">A program to extract YouTube palylist's data</h4>
+<h4 align="left">A program to extract YouTube palylist's data</h4>
 
-<p align="center">
- • <a href="#key-features">Key Features</a> 
+<p align="left">
+ • <a href="#key-features">Key Features</a> <br>
  • <a href="#how-to-use">How To Use</a> 
 </p>
 
